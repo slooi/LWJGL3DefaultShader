@@ -1,0 +1,12 @@
+.gradle
+.idea
+gradle/
+build/
+
+
+javacore.*.txt
+settings.gradle
+gradlew
+*.dmp
+*.trc
+*.bat
